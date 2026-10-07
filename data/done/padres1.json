@@ -1,0 +1,10 @@
+[
+    {
+        "padre": "A",
+        "madre": "B"
+    },
+    {
+        "padre": "0",
+        "madre": "AB"
+    }
+]
